@@ -1,16 +1,13 @@
 == WEB (IS150-1600-C41A) SESION 4 / ASPECTOS FRONT END
 
-Layout diferentes para Home y otras secciones.
-
+Layouts diferentes para Home y otras secciones.
 
 
 * Ruby version. ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux] 
 
 * server: cloud 9
-<a href="http://sesion4-iachamo.c9users.io">sesion4</a>
-
 
 * alumno: U201523792
 
-
+<a href="http://sesion4-iachamo.c9users.io">sesion4</a>
 <tt>enero 2015</tt>.
