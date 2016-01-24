@@ -9,5 +9,5 @@ Layouts diferentes para Home y otras secciones.
 
 * alumno: U201523792
 
-<a href="http://sesion4-iachamo.c9users.io">sesion4</a>
+http://sesion4-iachamo.c9users.io">sesion4
 <tt>enero 2015</tt>.
